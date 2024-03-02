@@ -1,6 +1,4 @@
-- Hi, I’m Justin
-- I’m interested in Robotics
-- I’m currently learning Intro to Self-Driving Cars on Udacity
+- Hi, I’m Justin.
 
 <!---
 zheshien0812/zheshien0812 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
